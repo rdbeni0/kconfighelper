@@ -8,6 +8,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/device_automounter_kcmrc,
 .config/gtk-3.0/*,GTK 3.0
 .config/gtk-4.0/*,GTK 4.0
+.config/kde.org/*,
 .config/gtkrc,
 .config/gtkrc-2.0,GTK 2.0
 .config/kaccessrc,Accessibility
@@ -48,3 +49,5 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kwinrulesrc,
 .config/plasma-nm,
 .config/plasmashellrc,
+.config/systemsettingsrc,
+.config/kiorc,
