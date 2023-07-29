@@ -51,3 +51,4 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/plasmashellrc,
 .config/systemsettingsrc,
 .config/kiorc,
+.config/klipperrc,
