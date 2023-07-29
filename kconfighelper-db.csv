@@ -1,3 +1,4 @@
+PATH (REQUIRED),DESCRIPTION (OPTIONAL)
 .config/Trolltech.conf,Colors
 .config/breezerc,Breeze Theme
 .config/gtk-3.0/*,
