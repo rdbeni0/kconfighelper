@@ -47,3 +47,4 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/trashrc,
 .config/kwinrulesrc,
 .config/plasma-nm,
+.config/plasmashellrc,
