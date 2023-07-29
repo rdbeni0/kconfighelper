@@ -53,3 +53,5 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kiorc,
 .config/klipperrc,
 .config/knfsshare,
+.config/powermanagementprofilesrc,
+.config/startupconfig,
