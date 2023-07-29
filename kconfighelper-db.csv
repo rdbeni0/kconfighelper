@@ -7,7 +7,7 @@
 .config/kactivitymanagerd-pluginsrc,
 .config/kactivitymanagerd-statsrc,Sorting of favourite (most used) applications by activity
 .config/kactivitymanagerd-switcher,Activity sorting in the activity switcher (probably as higher the number as more high in the ladder)
-.config/kactivitymanagerdrc,Activity meta info (activity name, activity icon)
+.config/kactivitymanagerdrc,Activity meta info
 .config/kcmfonts,Fonts
 .config/kcminputrc,
 .config/kdeglobals,Application Style
