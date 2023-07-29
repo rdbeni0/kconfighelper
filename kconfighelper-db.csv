@@ -32,7 +32,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kscreenlockerrc,Screen Locker
 .config/ksplashrc,Splash Screen
 .config/ktimezonedrc,Date & Time
-.config/kwinrc,Kwin
+.config/kwinrc,Configuration for KWin (the window manager for KDE)
 .config/kxkbrc,
 .config/plasma-localerc,Localization
 .config/plasma-org.kde.plasma.desktop-appletsrc,Applets
