@@ -17,6 +17,6 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/klaunchrc,Launch Feedback
 .config/kscreenlockerrc,Screen Locker
 .config/ksplashrc,Splash Screen
-.config/kwinrc,Kwin options
-.config/plasma-org.kde.plasma.desktop-appletsrc,Applets options
-.config/plasmarc,Plasma options
+.config/kwinrc,Kwin
+.config/plasma-org.kde.plasma.desktop-appletsrc,Applets
+.config/plasmarc,Plasma
