@@ -44,3 +44,5 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kmixctrlrc,
 .config/kmixrc,
 .config/ksmserverrc,
+.config/trashrc,
+.config/kwinrulesrc,
