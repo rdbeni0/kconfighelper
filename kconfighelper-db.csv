@@ -40,3 +40,6 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/spectaclerc,Spectacle
 .config/kateschemarc,Kate
 .config/kconf_updaterc,
+.config/khotkeysrc,
+.config/kmixctrlrc,
+.config/kmixrc,
