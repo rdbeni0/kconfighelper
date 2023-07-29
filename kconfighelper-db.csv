@@ -64,3 +64,4 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kwalletmanager5rc,
 .config/kwalletrc,
 .config/plasma.emojierrc,
+.config/kglobalaccel,Configuration for the global accelerator service
