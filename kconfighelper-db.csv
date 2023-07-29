@@ -1,5 +1,6 @@
 PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/PlasmaUserFeedback,User Feedback
+.config/akregatorrc
 .config/Trolltech.conf,Colors
 .config/baloofilerc,Baloo file indexer
 .config/bluedevilglobalrc,Bluetooth
@@ -37,3 +38,5 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/plasmarc,Plasma
 .config/touchpadxlibinputrc,Touchpad (X11)
 .config/spectaclerc,Spectacle
+.config/kateschemarc,Kate
+.config/kconf_updaterc,
