@@ -40,7 +40,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/plasmarc,Plasma
 .config/touchpadxlibinputrc,Touchpad (X11)
 .config/spectaclerc,Spectacle
-.config/kateschemarc,Kate
+.config/kateschemarc,Kate syntax highlighting
 .config/kconf_updaterc,
 .config/khotkeysrc,
 .config/kmixctrlrc,
@@ -56,8 +56,11 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/knfsshare,
 .config/powermanagementprofilesrc,
 .config/startupconfig,
+.config/startupconfigfiles,
+.config/startupconfigkeys,
 .config/kuriikwsfilterrc,
 .config/powerdevilrc,
 .config/kuriikwsfilterrc,
 .config/kwalletmanager5rc,
 .config/kwalletrc,
+.config/plasma.emojierrc,
