@@ -1,0 +1,22 @@
+.config/Trolltech.conf,Colors
+.config/breezerc,Breeze Theme
+.config/gtk-3.0/*
+.config/gtk-4.0/*
+.config/gtkrc
+.config/gtkrc-2.0
+.config/kactivitymanagerd-pluginsrc
+.config/kactivitymanagerd-statsrc,Sorting of favourite (most used) applications by activity
+.config/kactivitymanagerd-switcher,Activity sorting in the activity switcher (probably as higher the number as more high in the ladder)
+.config/kactivitymanagerdrc,Activity meta info (activity name, activity icon)
+.config/kcmfonts,Fonts
+.config/kcminputrc
+.config/kdeglobals,Application Style
+.config/kdeglobals
+.config/kfontinstuirc,Fonts
+.config/kglobalshortcutsrc
+.config/klaunchrc,Launch Feedback
+.config/kscreenlockerrc,Screen Locker
+.config/ksplashrc,Splash Screen
+.config/kwinrc,Kwin options
+.config/plasma-org.kde.plasma.desktop-appletsrc,Applets options
+.config/plasmarc,Plasma options
