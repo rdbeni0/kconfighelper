@@ -3,6 +3,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/akregatorrc,
 .config/Trolltech.conf,Colors
 .config/baloofilerc,Baloo file indexer
+.config/baloofileinformationrc,
 .config/bluedevilglobalrc,Bluetooth
 .config/breezerc,Breeze Theme
 .config/device_automounter_kcmrc,
@@ -55,3 +56,5 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/knfsshare,
 .config/powermanagementprofilesrc,
 .config/startupconfig,
+.config/kuriikwsfilterrc,
+.config/powerdevilrc,
