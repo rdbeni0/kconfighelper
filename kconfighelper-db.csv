@@ -48,7 +48,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/ksmserverrc,
 .config/trashrc,
 .config/kwinrulesrc,
-.config/plasma-nm,
+.config/plasma-nm,Configuration for Plasma NetworkManager settings (for managing network connections)
 .config/plasmashellrc,
 .config/systemsettingsrc,
 .config/kiorc,
