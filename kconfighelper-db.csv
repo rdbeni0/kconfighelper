@@ -43,3 +43,4 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/khotkeysrc,
 .config/kmixctrlrc,
 .config/kmixrc,
+.config/ksmserverrc,
