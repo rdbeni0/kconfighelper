@@ -10,13 +10,29 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kactivitymanagerd-switcher,Activity sorting in the activity switcher (probably as higher the number as more high in the ladder)
 .config/kactivitymanagerdrc,Activity meta info
 .config/kcmfonts,Fonts
-.config/kcminputrc,
-.config/kdeglobals,
 .config/kfontinstuirc,Fonts
+.config/plasmanotifyrc,Notifications
+.config/kxkbrc,
+.config/kaccessrc,Accessibility
+.config/kcminputrc,
+.config/plasma-localerc,Localization
+.config/touchpadxlibinputrc,
+.config/ktimezonedrc,Date & Time
+.config/kdeglobals,
 .config/kglobalshortcutsrc,
 .config/klaunchrc,Launch Feedback
+.config/PlasmaUserFeedback,User Feedback
 .config/kscreenlockerrc,Screen Locker
 .config/ksplashrc,Splash Screen
 .config/kwinrc,Kwin
 .config/plasma-org.kde.plasma.desktop-appletsrc,Applets
 .config/plasmarc,Plasma
+.config/krusaderrc,Krusader
+.config/device_automounter_kcmrc,
+.config/kded_device_automounterrc,
+.config/kded5rc,
+.config/krunnerrc,
+.config/baloofilerc,
+.config/bluedevilglobalrc,Bluetooth
+.config/kdeconnect,KDE Connect
+.config/kgammarc,Gamma
