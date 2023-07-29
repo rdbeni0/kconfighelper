@@ -1,4 +1,4 @@
-PATH (REQUIRED),DESCRIPTION (OPTIONAL)
+PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/Trolltech.conf,Colors
 .config/breezerc,Breeze Theme
 .config/gtk-3.0/*,
@@ -11,7 +11,6 @@ PATH (REQUIRED),DESCRIPTION (OPTIONAL)
 .config/kactivitymanagerdrc,Activity meta info
 .config/kcmfonts,Fonts
 .config/kcminputrc,
-.config/kdeglobals,Application Style
 .config/kdeglobals,
 .config/kfontinstuirc,Fonts
 .config/kglobalshortcutsrc,
