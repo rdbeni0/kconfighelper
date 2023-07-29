@@ -52,3 +52,4 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/systemsettingsrc,
 .config/kiorc,
 .config/klipperrc,
+.config/knfsshare,
