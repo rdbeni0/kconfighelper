@@ -1,14 +1,14 @@
 PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/PlasmaUserFeedback,User Feedback
 .config/Trolltech.conf,Colors
-.config/baloofilerc,
+.config/baloofilerc,Baloo file indexer
 .config/bluedevilglobalrc,Bluetooth
 .config/breezerc,Breeze Theme
 .config/device_automounter_kcmrc,
-.config/gtk-3.0/*,
-.config/gtk-4.0/*,
+.config/gtk-3.0/*,GTK 3.0
+.config/gtk-4.0/*,GTK 4.0
 .config/gtkrc,
-.config/gtkrc-2.0,
+.config/gtkrc-2.0,GTK 2.0
 .config/kaccessrc,Accessibility
 .config/kactivitymanagerd-pluginsrc,
 .config/kactivitymanagerd-statsrc,Sorting of favourite (most used) applications by activity
