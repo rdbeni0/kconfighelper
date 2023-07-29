@@ -58,3 +58,6 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/startupconfig,
 .config/kuriikwsfilterrc,
 .config/powerdevilrc,
+.config/kuriikwsfilterrc,
+.config/kwalletmanager5rc,
+.config/kwalletrc,
