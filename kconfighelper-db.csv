@@ -35,4 +35,5 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/plasma-org.kde.plasma.desktop-appletsrc,Applets
 .config/plasmanotifyrc,Notifications
 .config/plasmarc,Plasma
-.config/touchpadxlibinputrc,
+.config/touchpadxlibinputrc,Touchpad (X11)
+.config/spectaclerc,Spectacle
