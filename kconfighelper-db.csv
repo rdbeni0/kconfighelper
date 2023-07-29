@@ -65,5 +65,5 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kwalletrc,
 .config/plasma.emojierrc,
 .config/plasma-systemtray,
-.config/plasma-widgets-appletsrc,Configuration for various Plasma widgets
+.config/plasma-widgets-appletsrc,Various Plasma widgets
 .config/kglobalaccel,Configuration for the global accelerator service
