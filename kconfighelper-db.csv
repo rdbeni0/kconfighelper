@@ -37,6 +37,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/klipperrc,
 .config/kmixctrlrc,
 .config/filetypesrc,
+.config/drkonqirc,
 .config/kmixrc,
 .config/knfsshare,
 .config/krunnerrc,
