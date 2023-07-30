@@ -63,6 +63,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kuriikwsfilterrc,
 .config/kwalletmanager5rc,
 .config/kwalletrc,
+.config/arkrc,
 .config/plasma.emojierrc,
 .config/plasma-systemtray,
 .config/plasma-widgets-appletsrc,Various Plasma widgets
