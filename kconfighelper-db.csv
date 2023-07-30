@@ -17,13 +17,16 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/discoverrc,
 .config/okularpartrc,
 .config/okularrc,
+.config/xdg-desktop-portal-kderc,
 .config/partitionmanagerrc,
 .config/systemmonitorrc,
 .config/dolphinrc,
 .config/drkonqirc,
 .config/filetypesrc,
+.config/session/*,
 .config/gtk-3.0/*,GTK 3.0
 .config/gtk-4.0/*,GTK 4.0
+.config/xsettingsd/*,
 .config/gtkrc,
 .config/gtkrc-2.0,GTK 2.0
 .config/kaccessrc,Accessibility
