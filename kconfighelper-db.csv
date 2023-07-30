@@ -7,6 +7,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/bluedevilglobalrc,Bluetooth
 .config/breezerc,Breeze Theme
 .config/device_automounter_kcmrc,
+.config/kinfocenterrc,
 .config/discoverrc,
 .config/dolphinrc,
 .config/drkonqirc,
