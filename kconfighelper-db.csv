@@ -1,4 +1,4 @@
-PATH (REQUIRED):,DESCRIPTION (OPTIONAL):,MAINLY USED IN KDE (OPTIONAL, DEFAULT=TRUE)
+PATH (REQUIRED):,DESCRIPTION (OPTIONAL):,MAINLY USED IN KDE (OPTIONAL / DEFAULT=TRUE)
 .config/PlasmaUserFeedback,User Feedback,
 .config/Trolltech.conf,Colors,
 .config/QtProject.conf,,
