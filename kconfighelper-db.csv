@@ -36,6 +36,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/klaunchrc,Launch Feedback
 .config/klipperrc,
 .config/kmixctrlrc,
+.config/filetypesrc,
 .config/kmixrc,
 .config/knfsshare,
 .config/krunnerrc,
