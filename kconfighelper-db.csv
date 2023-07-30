@@ -21,6 +21,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kactivitymanagerd-switcher,Activity sorting in the activity switcher (probably as higher the number as more high in the ladder)
 .config/kactivitymanagerdrc,Activity meta info
 .config/kateschemarc,Kate syntax highlighting
+.config/katerc,
 .config/kate,
 .config/katemetainfos,
 .config/kcmfonts,Fonts
