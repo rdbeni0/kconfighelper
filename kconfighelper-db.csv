@@ -8,6 +8,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):,MAINLY USED IN KDE (OPTIONAL / DEFAULT=
 .config/gtkrc,,F
 .config/gtkrc-2.0,GTK 2.0,F
 .gtkrc-2.0,GTK 2.0,F
+.config/libaccounts-glib/*,,F
 .config/akregatorrc,,
 .config/baloofileinformationrc,,
 .config/baloofilerc,Baloo file indexer,
