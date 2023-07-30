@@ -8,6 +8,9 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/breezerc,Breeze Theme
 .config/device_automounter_kcmrc,
 .config/kinfocenterrc,
+.config/kmenueditrc,
+.config/konsolerc,
+.config/konsolesshconfig,
 .config/discoverrc,
 .config/dolphinrc,
 .config/drkonqirc,
