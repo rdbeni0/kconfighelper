@@ -27,6 +27,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/katemetainfos,
 .config/kcmfonts,Fonts
 .config/kcminputrc,
+.config/khelpcenterrc,
 .config/kconf_updaterc,
 .config/kde.org/*,
 .config/KDE/*,
