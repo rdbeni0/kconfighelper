@@ -18,7 +18,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):,MAINLY USED IN KDE (OPTIONAL / DEFAULT=
 .config/kinfocenterrc,,
 .config/kmenueditrc,,
 .config/plasma-welcomerc,,
-.config/plasma-workspace,,
+.config/plasma-workspace/*,,
 .config/konsolerc,,
 .config/konsolesshconfig,,
 .config/discoverrc,,
