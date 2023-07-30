@@ -9,6 +9,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/device_automounter_kcmrc,
 .config/kinfocenterrc,
 .config/kmenueditrc,
+.config/plasma-welcomerc,
 .config/konsolerc,
 .config/konsolesshconfig,
 .config/discoverrc,
