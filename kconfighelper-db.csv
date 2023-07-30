@@ -13,6 +13,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/konsolesshconfig,
 .config/discoverrc,
 .config/okularpartrc,
+.config/okularrc,
 .config/dolphinrc,
 .config/drkonqirc,
 .config/filetypesrc,
