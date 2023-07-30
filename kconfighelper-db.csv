@@ -21,6 +21,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kactivitymanagerd-switcher,Activity sorting in the activity switcher (probably as higher the number as more high in the ladder)
 .config/kactivitymanagerdrc,Activity meta info
 .config/kateschemarc,Kate syntax highlighting
+.config/katevirc,
 .config/katerc,
 .config/kate,
 .config/katemetainfos,
@@ -28,6 +29,8 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/kcminputrc,
 .config/kconf_updaterc,
 .config/kde.org/*,
+.config/KDE/*,
+.config/kdedefaults/*,
 .config/kdeconnect,KDE Connect
 .config/kded5rc,Configuration for KDE daemons (background services) settings
 .config/kded_device_automounterrc,Configuration for device automounter settings
