@@ -1,94 +1,94 @@
-PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
-.config/PlasmaUserFeedback,User Feedback
-.config/Trolltech.conf,Colors
-.config/QtProject.conf,
-.config/akregatorrc,
-.config/baloofileinformationrc,
-.config/baloofilerc,Baloo file indexer
-.config/bluedevilglobalrc,Bluetooth
-.config/breezerc,Breeze Theme
-.config/device_automounter_kcmrc,
-.config/kinfocenterrc,
-.config/kmenueditrc,
-.config/plasma-welcomerc,
-.config/plasma-workspace,
-.config/konsolerc,
-.config/konsolesshconfig,
-.config/discoverrc,
-.config/okularpartrc,
-.config/okularrc,
-.config/xdg-desktop-portal-kderc,
-.config/partitionmanagerrc,
-.config/systemmonitorrc,
-.config/dolphinrc,
-.config/drkonqirc,
-.config/filetypesrc,
-.config/session/*,
-.config/gtk-3.0/*,GTK 3.0
-.config/gtk-4.0/*,GTK 4.0
-.config/xsettingsd/*,
-.config/gtkrc,
-.config/gtkrc-2.0,GTK 2.0
-.config/kaccessrc,Accessibility
-.config/kactivitymanagerd-pluginsrc,
-.config/kactivitymanagerd-statsrc,Sorting of favourite (most used) applications by activity
-.config/kactivitymanagerd-switcher,Activity sorting in the activity switcher (probably as higher the number as more high in the ladder)
-.config/kactivitymanagerdrc,Activity meta info
-.config/kateschemarc,Kate syntax highlighting
-.config/katevirc,
-.config/katerc,
-.config/kate,
-.config/katemetainfos,
-.config/kcmfonts,Fonts
-.config/kcminputrc,
-.config/khelpcenterrc,
-.config/kconf_updaterc,
-.config/kde.org/*,
-.config/KDE/*,
-.config/kdedefaults/*,
-.config/kdeconnect,KDE Connect
-.config/kded5rc,Configuration for KDE daemons (background services) settings
-.config/kded_device_automounterrc,Configuration for device automounter settings
-.config/kdeglobals,Global configuration settings for various KDE applications and components
-.config/kfontinstuirc,Fonts
-.config/kgammarc,Gamma
-.config/kglobalaccel,Configuration for the global accelerator service
-.config/kglobalshortcutsrc,
-.config/khotkeysrc,
-.config/kiorc,
-.config/klaunchrc,Launch Feedback
-.config/klipperrc,
-.config/kmixctrlrc,
-.config/kmixrc,
-.config/knfsshare,
-.config/krunnerrc,
-.config/krusaderrc,Krusader
-.config/kscreenlockerrc,Screen Locker
-.config/ksmserverrc,
-.config/ksplashrc,Splash Screen
-.config/ktimezonedrc,Date & Time
-.config/kuriikwsfilterrc,
-.config/kwalletmanager5rc,
-.config/kwalletrc,
-.config/kwinrc,Configuration for KWin (the window manager for KDE)
-.config/kwinrulesrc,
-.config/kxkbrc,
-.config/plasma-localerc,Localization
-.config/plasma-nm,Configuration for Plasma NetworkManager settings (for managing network connections)
-.config/plasma-org.kde.plasma.desktop-appletsrc,Applets
-.config/plasma-systemtray,
-.config/plasma-widgets-appletsrc,Various Plasma widgets
-.config/plasma.emojierrc,
-.config/plasmanotifyrc,Notifications
-.config/plasmarc,Plasma
-.config/plasmashellrc,
-.config/powerdevilrc,
-.config/powermanagementprofilesrc,
-.config/spectaclerc,Spectacle
-.config/startupconfig,
-.config/startupconfigfiles,
-.config/startupconfigkeys,
-.config/systemsettingsrc,
-.config/touchpadxlibinputrc,Touchpad (X11)
-.config/trashrc,
-.config/gwenviewrc,
+PATH (REQUIRED):,DESCRIPTION (OPTIONAL):,MAINLY USED IN KDE (OPTIONAL, DEFAULT=TRUE)
+.config/PlasmaUserFeedback,User Feedback,
+.config/Trolltech.conf,Colors,
+.config/QtProject.conf,,
+.config/akregatorrc,,
+.config/baloofileinformationrc,,
+.config/baloofilerc,Baloo file indexer,
+.config/bluedevilglobalrc,Bluetooth,
+.config/breezerc,Breeze Theme,
+.config/device_automounter_kcmrc,,
+.config/kinfocenterrc,,
+.config/kmenueditrc,,
+.config/plasma-welcomerc,,
+.config/plasma-workspace,,
+.config/konsolerc,,
+.config/konsolesshconfig,,
+.config/discoverrc,,
+.config/okularpartrc,,
+.config/okularrc,,
+.config/xdg-desktop-portal-kderc,,
+.config/partitionmanagerrc,,
+.config/systemmonitorrc,,
+.config/dolphinrc,,
+.config/drkonqirc,,
+.config/filetypesrc,,
+.config/session/*,,
+.config/gtk-3.0/*,GTK 3.0,
+.config/gtk-4.0/*,GTK 4.0,
+.config/xsettingsd/*,,
+.config/gtkrc,,
+.config/gtkrc-2.0,GTK 2.0,
+.config/kaccessrc,Accessibility,
+.config/kactivitymanagerd-pluginsrc,,
+.config/kactivitymanagerd-statsrc,Sorting of favourite (most used) applications by activity,
+.config/kactivitymanagerd-switcher,Activity sorting in the activity switcher (probably as higher the number as more high in the ladder),
+.config/kactivitymanagerdrc,Activity meta info,
+.config/kateschemarc,Kate syntax highlighting,
+.config/katevirc,,
+.config/katerc,,
+.config/kate,,
+.config/katemetainfos,,
+.config/kcmfonts,Fonts,
+.config/kcminputrc,,
+.config/khelpcenterrc,,
+.config/kconf_updaterc,,
+.config/kde.org/*,,
+.config/KDE/*,,
+.config/kdedefaults/*,,
+.config/kdeconnect,KDE Connect,
+.config/kded5rc,Configuration for KDE daemons (background services) settings,
+.config/kded_device_automounterrc,Configuration for device automounter settings,
+.config/kdeglobals,Global configuration settings for various KDE applications and components,
+.config/kfontinstuirc,Fonts,
+.config/kgammarc,Gamma,
+.config/kglobalaccel,Configuration for the global accelerator service,
+.config/kglobalshortcutsrc,,
+.config/khotkeysrc,,
+.config/kiorc,,
+.config/klaunchrc,Launch Feedback,
+.config/klipperrc,,
+.config/kmixctrlrc,,
+.config/kmixrc,,
+.config/knfsshare,,
+.config/krunnerrc,,
+.config/krusaderrc,Krusader,
+.config/kscreenlockerrc,Screen Locker,
+.config/ksmserverrc,,
+.config/ksplashrc,Splash Screen,
+.config/ktimezonedrc,Date & Time,
+.config/kuriikwsfilterrc,,
+.config/kwalletmanager5rc,,
+.config/kwalletrc,,
+.config/kwinrc,Configuration for KWin (the window manager for KDE),
+.config/kwinrulesrc,,
+.config/kxkbrc,,
+.config/plasma-localerc,Localization,
+.config/plasma-nm,Configuration for Plasma NetworkManager settings (for managing network connections),
+.config/plasma-org.kde.plasma.desktop-appletsrc,Applets,
+.config/plasma-systemtray,,
+.config/plasma-widgets-appletsrc,Various Plasma widgets,
+.config/plasma.emojierrc,,
+.config/plasmanotifyrc,Notifications,
+.config/plasmarc,Plasma,
+.config/plasmashellrc,,
+.config/powerdevilrc,,
+.config/powermanagementprofilesrc,,
+.config/spectaclerc,Spectacle,
+.config/startupconfig,,
+.config/startupconfigfiles,,
+.config/startupconfigkeys,,
+.config/systemsettingsrc,,
+.config/touchpadxlibinputrc,Touchpad (X11),
+.config/trashrc,,
+.config/gwenviewrc,,
