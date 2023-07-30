@@ -9,6 +9,8 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/device_automounter_kcmrc,
 .config/discoverrc,
 .config/dolphinrc,
+.config/drkonqirc,
+.config/filetypesrc,
 .config/gtk-3.0/*,GTK 3.0
 .config/gtk-4.0/*,GTK 4.0
 .config/gtkrc,
@@ -36,8 +38,6 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/klaunchrc,Launch Feedback
 .config/klipperrc,
 .config/kmixctrlrc,
-.config/filetypesrc,
-.config/drkonqirc,
 .config/kmixrc,
 .config/knfsshare,
 .config/krunnerrc,
@@ -70,3 +70,4 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/systemsettingsrc,
 .config/touchpadxlibinputrc,Touchpad (X11)
 .config/trashrc,
+.config/gwenviewrc,
