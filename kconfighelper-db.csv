@@ -1,7 +1,7 @@
 PATH (REQUIRED):,DESCRIPTION (OPTIONAL):,MAINLY USED IN KDE (OPTIONAL / DEFAULT=TRUE):
 .config/PlasmaUserFeedback,User Feedback,
-.config/Trolltech.conf,Colors,
-.config/QtProject.conf,,
+.config/Trolltech.conf,Colors,FALSE
+.config/QtProject.conf,,FALSE
 .config/akregatorrc,,
 .config/baloofileinformationrc,,
 .config/baloofilerc,Baloo file indexer,
@@ -24,11 +24,11 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):,MAINLY USED IN KDE (OPTIONAL / DEFAULT=
 .config/drkonqirc,,
 .config/filetypesrc,,
 .config/session/*,,
-.config/gtk-3.0/*,GTK 3.0,
-.config/gtk-4.0/*,GTK 4.0,
+.config/gtk-3.0/*,GTK 3.0,FALSE
+.config/gtk-4.0/*,GTK 4.0,FALSE
 .config/xsettingsd/*,,
-.config/gtkrc,,
-.config/gtkrc-2.0,GTK 2.0,
+.config/gtkrc,,FALSE
+.config/gtkrc-2.0,GTK 2.0,FALSE
 .config/kaccessrc,Accessibility,
 .config/kactivitymanagerd-pluginsrc,,
 .config/kactivitymanagerd-statsrc,Sorting of favourite (most used) applications by activity,
