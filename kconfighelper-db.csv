@@ -14,6 +14,7 @@ PATH (REQUIRED):,DESCRIPTION (OPTIONAL):
 .config/discoverrc,
 .config/okularpartrc,
 .config/okularrc,
+.config/partitionmanagerrc,
 .config/dolphinrc,
 .config/drkonqirc,
 .config/filetypesrc,
